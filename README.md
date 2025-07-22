@@ -20,8 +20,6 @@ Key areas of exploration include:
 - │ └── ATP_EDA.ipynb 
 - ├── Figures/
 - │ └──  All figures used
-- ├── Report/
-- │ └── EDA_Written_Assignment_Task_1.pdf 
 - ├── README.md 
 
 

@@ -62,11 +62,11 @@ All final figures are stored in the figures/ folder.
 ---
 
 ## References:
-Dunkeld, M. (2024). The Importance of Exploratory Data Analysis in Product Data Science.
-Joanes, D. N., & Gill, C. A. (1998). Comparing Measures of Sample Skewness and Kurtosis.
-Klaassen, F., & Magnus, J. R. (2014). Analyzing Wimbledon: The Power of Statistics.
-Carlo, L. T. (1997). On the meaning and use of Kurtosis.
-Fernandez, J., & Mendez-Villanueva, A. (2006). Intensity of Tennis Match Play.
+- Dunkeld, M. (2024). The Importance of Exploratory Data Analysis in Product Data Science.
+- Joanes, D. N., & Gill, C. A. (1998). Comparing Measures of Sample Skewness and Kurtosis.
+- Klaassen, F., & Magnus, J. R. (2014). Analyzing Wimbledon: The Power of Statistics.
+- Carlo, L. T. (1997). On the meaning and use of Kurtosis.
+- Fernandez, J., & Mendez-Villanueva, A. (2006). Intensity of Tennis Match Play.
 
 ---
 

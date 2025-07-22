@@ -39,11 +39,11 @@ The data set was update to include data up to 2022.
 ## 🧩 Dependencies
 
 All code was written in Jupyter Notebook and requires the following libraries:
-pandas
-numpy
-matplotlib
-seaborn
-scipy
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scipy
 
 ---
 

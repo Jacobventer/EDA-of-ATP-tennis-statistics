@@ -42,6 +42,11 @@ All code was written in Jupyter Notebook and requires the following libraries:
 - matplotlib
 - seaborn
 - scipy
+- skew
+- kurtosis
+- zscore
+- pearsonr
+- spearmanr
 
 ---
 

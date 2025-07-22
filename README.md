@@ -15,14 +15,14 @@ Key areas of exploration include:
 
 ## 📂 Repository Structure
 - ├── Raw Data/
-- │ └── atp_data.csv # Raw dataset downloaded from Kaggle
+- │ └── atp_data.csv 
 - ├── Notebooks/
-- │ └── ATP_EDA.ipynb # Jupyter notebook with full EDA code and visualizations
+- │ └── ATP_EDA.ipynb 
 - ├── Figures/
-- │ └──  # All figures used in the analysis and written report 
+- │ └──  All figures used
 - ├── Report/
-- │ └── Written_Assignment_Task_1.pdf # Final written assignment (PDF)
-- ├── README.md # Project overview and instructions
+- │ └── EDA_Written_Assignment_Task_1.pdf 
+- ├── README.md 
 
 
 

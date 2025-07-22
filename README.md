@@ -17,7 +17,7 @@ Key areas of exploration include:
 - ├── Raw Data/
 - │ └── atp_data.csv 
 - ├── Notebooks/
-- │ └── ATP_EDA.ipynb 
+- │ └── ATP_data_calculation-v2.ipynb 
 - ├── Figures/
 - │ └──  All figures used
 - ├── README.md 
